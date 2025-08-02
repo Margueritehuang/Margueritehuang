@@ -47506,18 +47506,29 @@ a.u-link.u-text-hover-color-var:hover {
 }
 @media (max-width: 1199px) {
   .u-header .u-sheet-1 {
-    min-height: 164px;
+    min-height: 143px;
   }
 
   .u-header .u-menu-1 {
-    width: auto;
     margin-top: -21px;
     margin-right: 0;
   }
 }
-
-
+@media (max-width: 991px) {
+  .u-header .u-sheet-1 {
+    min-height: 110px;
+  }
+}
+@media (max-width: 767px) {
+  .u-header .u-sheet-1 {
+    min-height: 83px;
+  }
+}
 @media (max-width: 575px) {
+  .u-header .u-sheet-1 {
+    min-height: 52px;
+  }
+
   .u-header .u-nav-1 {
     font-size: 1.125rem;
   }
