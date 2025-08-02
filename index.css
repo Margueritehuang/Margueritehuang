@@ -42,6 +42,7 @@
 .u-section-1 .u-text-2 {
   font-size: 2rem;
   font-family: "Sawarabi Gothic";
+  font-weight: 400;
   margin: 20px auto 0 0;
 }
 
@@ -84,10 +85,6 @@
 
   .u-section-1 .u-layout-cell-2 {
     min-height: 459px;
-  }
-
-  .u-section-1 .u-text-2 {
-    font-weight: 400;
   }
 
   .u-section-1 .u-text-3 {
@@ -181,13 +178,17 @@
     margin-bottom: 0;
   }
 
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 555px;
+  }
+
   .u-section-1 .u-container-layout-2 {
-    padding-left: 25px;
-    padding-right: 25px;
+    padding: 11px 25px;
   }
 
   .u-section-1 .u-text-1 {
     font-size: 2.25rem;
+    margin-top: 17px;
   }
 
   .u-section-1 .u-text-2 {
@@ -195,6 +196,7 @@
   }
 
   .u-section-1 .u-text-7 {
-    margin-right: 194px;
+    width: auto;
+    margin-right: 140px;
   }
 }
