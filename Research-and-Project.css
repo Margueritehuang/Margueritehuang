@@ -23,7 +23,7 @@
 }
 
 .u-section-1 .u-text-1 {
-  font-family: "Sawarabi Gothic";
+  font-weight: 500;
   margin: 0 399px 0 0;
 }
 
@@ -322,6 +322,7 @@
   }
 
   .u-section-1 .u-text-1 {
+    font-family: Roboto, sans-serif;
     margin-right: 199px;
   }
 
@@ -702,12 +703,6 @@
     margin-left: 454px;
   }
 
-  .u-section-1 .u-layout-wrap-5 {
-    position: relative;
-    margin-right: initial;
-    margin-left: initial;
-  }
-
   .u-section-1 .u-container-layout-9 {
     padding-left: 10px;
     padding-right: 10px;
@@ -739,7 +734,6 @@
   }
 
   .u-section-1 .u-layout-wrap-7 {
-    position: relative;
     margin-top: 96px;
   }
 

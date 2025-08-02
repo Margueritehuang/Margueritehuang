@@ -1,7 +1,7 @@
  .u-section-1 {
   background-position: 50% 50%;
   background-repeat: no-repeat;
-  background-image: url("images/6.png");
+  background-image: url("images/background4.png");
   background-size: cover;
 }
 
@@ -13,6 +13,7 @@
   margin-bottom: 0;
   margin-top: 20px;
   margin-left: 0;
+  font-weight: 500;
 }
 
 .u-section-1 .u-text-2 {
